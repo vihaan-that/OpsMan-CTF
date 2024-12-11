@@ -1,0 +1,12 @@
+[submodule "ctf_backend"]
+	path = ctf_backend
+	url = https://github.com/vihaan-that/ctf_backend
+[submodule "shakuni"]
+	path = shakuni
+	url = https://github.com/vihaan-that/shakuni
+[submodule "krishna"]
+	path = krishna
+	url = https://github.com/vihaan-that/krishna
+[submodule "OpsManCTF_Readme"]
+	path = OpsManCTF_Readme
+	url = https://github.com/vihaan-that/OpsManCTF_Readme
