@@ -10,3 +10,6 @@
 [submodule "OpsManCTF_Readme"]
 	path = OpsManCTF_Readme
 	url = https://github.com/vihaan-that/OpsManCTF_Readme
+[submodule "sanjaya"]
+	path = sanjaya
+	url = https://github.com/vihaan-that/sanjaya
